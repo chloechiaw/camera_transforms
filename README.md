@@ -1,6 +1,6 @@
 # camera_transforms
+<img width="602" alt="Screen Shot 2024-11-25 at 6 46 39 PM" src="https://github.com/user-attachments/assets/e1908724-7a89-4c3b-b50b-c5b1ff0ca09b">
 
-![Uploading Screen Shot 2024-11-25 at 5.44.41 PM.png…]()
 
 
 simple 3D points transform into 2D screen coordinates using perspective projection.
